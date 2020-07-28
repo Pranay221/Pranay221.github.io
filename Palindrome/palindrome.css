@@ -1,0 +1,21 @@
+h1{
+	text-align: center;
+	text-decoration: underline;
+}
+
+#enter
+{
+	text-align: center;
+}
+
+.centering
+{
+    display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+#ans
+{
+	text-align: center;
+}
